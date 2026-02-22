@@ -1,0 +1,452 @@
+Contexto Institucional da SynapseAI Solutions
+A SynapseAI Solutions é uma empresa especializada no desenvolvimento de produtos corporativos baseados em Inteligência Artificial Generativa, com foco em aplicações de alto impacto nos setores de Finanças, Educação e Saúde. Seu posicionamento estratégico está fundamentado na criação de soluções de IA orientadas a domínio, projetadas para operar em ambientes empresariais complexos, regulados e críticos.
+Diferentemente de abordagens genéricas de IA generativa, a SynapseAI adota um modelo de verticalização tecnológica, no qual cada produto é construído a partir de uma profunda compreensão do contexto operacional, regulatório e semântico do setor em que será aplicado. Isso permite maior precisão, confiabilidade, explicabilidade e alinhamento com processos reais de negócio.
+A empresa tem como princípio central o uso responsável, seguro e auditável da IA, garantindo conformidade com legislações como a LGPD, além de boas práticas internacionais de governança, privacidade e segurança da informação.
+
+Visão e Proposta de Valor
+A missão da SynapseAI Solutions é ampliar a capacidade cognitiva de profissionais e organizações, utilizando IA generativa como um sistema de apoio à decisão, e não como um substituto do julgamento humano.
+Sua proposta de valor está baseada em cinco pilares fundamentais:
+Especialização por domínio
+ Modelos de IA ajustados especificamente para finanças, educação e saúde, evitando respostas genéricas ou superficiais.
+
+
+IA explicável e rastreável
+ Todas as respostas geradas pelos sistemas podem ser explicadas, auditadas e vinculadas a fontes de dados confiáveis.
+
+
+Integração com dados privados
+ Os produtos operam prioritariamente sobre dados internos do cliente, utilizando técnicas como RAG (Retrieval-Augmented Generation).
+
+
+Compliance e segurança desde a concepção
+ Arquiteturas desenhadas para ambientes regulados, com isolamento por cliente, criptografia e controle de acesso rigoroso.
+
+
+Escalabilidade enterprise
+ Soluções prontas para milhares de usuários, com SLAs elevados e suporte a deploy em cloud privada ou on-premise.
+
+
+
+Fundamentos Tecnológicos
+A base tecnológica da SynapseAI Solutions é composta por uma arquitetura moderna e modular de IA generativa, que inclui:
+Large Language Models (LLMs) open-source e proprietários
+
+
+Fine-tuning supervisionado para adaptação semântica por domínio
+
+
+RAG (Retrieval-Augmented Generation) sobre bases privadas
+
+
+Bancos vetoriais isolados por cliente
+
+
+Pipelines de ingestão, versionamento e curadoria de dados
+
+
+Observabilidade de IA, com métricas de qualidade, latência e drift
+
+
+Human-in-the-loop para cenários críticos
+
+
+Essa arquitetura é compartilhada entre os produtos, mas cada solução possui camadas específicas de negócio, regras de segurança e guardrails próprios, de acordo com o risco e a criticidade do domínio.
+
+Portfólio de Produtos
+FinBrain — Copiloto Financeiro Corporativo
+O FinBrain é um assistente de IA generativa especializado em análise financeira, contábil e estratégica. Ele foi projetado para apoiar executivos, analistas e equipes financeiras na interpretação de grandes volumes de dados financeiros internos.
+O produto permite que usuários façam perguntas em linguagem natural sobre balanços, DREs, fluxo de caixa, orçamentos e indicadores financeiros, recebendo respostas claras, explicáveis e rastreáveis. Além disso, o FinBrain oferece simulações de cenários, análises comparativas e geração automática de relatórios executivos.
+O FinBrain atua sempre como copiloto, mantendo o controle e a decisão final nas mãos dos profissionais.
+
+RiskGen — Inteligência para Risco, Compliance e Auditoria
+O RiskGen é uma plataforma de IA generativa voltada para gestão de riscos, compliance regulatório e auditoria corporativa. Seu foco está na leitura, interpretação e comparação de documentos complexos, como contratos, políticas internas e normas regulatórias.
+O sistema identifica potenciais riscos, inconsistências e desvios de conformidade, classificando-os por severidade e fornecendo evidências textuais que sustentam cada análise. Todas as interações geram trilhas de auditoria imutáveis, garantindo transparência e rastreabilidade.
+O RiskGen não substitui áreas jurídicas ou de compliance, mas reduz drasticamente o esforço operacional e o risco de falhas humanas em análises extensas.
+
+EduMentor AI — Tutor Educacional Inteligente
+O EduMentor AI é um tutor educacional baseado em IA generativa, projetado para oferecer aprendizado personalizado e adaptativo. Ele ajusta o nível de explicação, linguagem e profundidade com base no perfil cognitivo, desempenho e objetivos de cada aluno.
+O produto é aplicável tanto em educação formal (ensino superior, EAD) quanto em educação corporativa, auxiliando na capacitação técnica e no desenvolvimento contínuo de profissionais.
+O EduMentor AI não substitui professores, mas atua como um assistente pedagógico, ampliando o alcance e a eficiência do processo de ensino-aprendizagem.
+
+CourseGen Studio — Geração Assistida de Conteúdo Educacional
+O CourseGen Studio é uma ferramenta de criação de conteúdo educacional baseada em IA generativa. Ele auxilia professores, instructional designers e equipes de L&D na criação de cursos completos, incluindo ementas, planos de aula, materiais didáticos e avaliações.
+O sistema permite alinhar automaticamente os conteúdos a objetivos pedagógicos, competências e taxonomias educacionais, garantindo coerência didática. Todo o conteúdo gerado é revisável, versionável e exportável para múltiplos formatos.
+O CourseGen Studio atua como um acelerador de produtividade, preservando o papel humano na curadoria e validação do conhecimento.
+
+ClinicaGPT — Assistente Clínico de Apoio à Decisão
+O ClinicaGPT é um assistente de IA generativa voltado para apoio à prática clínica, projetado especificamente para ambientes de saúde. Ele auxilia profissionais na organização de informações clínicas, resumo de prontuários e consulta a protocolos e diretrizes médicas.
+O produto opera estritamente como sistema de apoio à decisão, não realizando diagnósticos nem prescrições. Todas as respostas são explicáveis e baseadas em fontes clínicas confiáveis.
+O ClinicaGPT foi desenhado para atender ambientes hospitalares críticos, com altos requisitos de disponibilidade, segurança e conformidade regulatória.
+
+
+FinBrain — Copiloto Financeiro Corporativo
+O FinBrain é um copiloto de IA generativa especializado em finanças corporativas, projetado para apoiar profissionais financeiros na análise, interpretação e comunicação de informações financeiras complexas. Seu principal objetivo é transformar grandes volumes de dados financeiros estruturados em insights claros, explicáveis e acionáveis.
+O produto opera integrado a fontes internas da organização, como data warehouses, ERPs, planilhas e relatórios financeiros, utilizando técnicas de Retrieval-Augmented Generation (RAG) para garantir que todas as respostas sejam fundamentadas em dados reais do cliente. Isso elimina respostas genéricas e reduz significativamente o risco de interpretações incorretas.
+O FinBrain permite consultas em linguagem natural sobre indicadores como EBITDA, margem, fluxo de caixa, orçamento e projeções, além de gerar análises comparativas e simulações de cenários financeiros. As respostas são apresentadas em linguagem executiva, mantendo rigor técnico, mas facilitando a comunicação com diretorias e conselhos.
+É importante destacar que o FinBrain não substitui decisões financeiras, atuando sempre como um sistema de apoio. Todas as análises são auditáveis e rastreáveis, permitindo uso seguro em ambientes regulados.
+
+RiskGen — Inteligência para Risco, Compliance e Auditoria
+O RiskGen é uma plataforma de IA generativa voltada para gestão de risco regulatório, compliance e auditoria corporativa, com foco na interpretação de documentos complexos e extensos. Ele foi concebido para lidar com contratos, políticas internas, normas regulatórias e documentos legais que exigem análise minuciosa e alto grau de precisão.
+O sistema utiliza modelos de linguagem especializados em linguagem jurídica e regulatória, combinados com RAG sobre bases documentais atualizadas. Isso permite comparar contratos com políticas internas, identificar inconformidades regulatórias e destacar potenciais riscos operacionais ou legais.
+Cada risco identificado pelo RiskGen é acompanhado de evidências textuais, classificação de severidade e justificativas claras, facilitando a atuação das equipes humanas. O produto mantém trilhas de auditoria imutáveis, com versionamento de documentos e análises, atendendo a exigências de auditorias internas e externas.
+O RiskGen não substitui equipes jurídicas ou de compliance. Seu papel é reduzir esforço operacional, aumentar consistência das análises e minimizar o risco de falhas humanas em processos críticos.
+
+EduMentor AI — Tutor Educacional Inteligente
+O EduMentor AI é um tutor educacional baseado em IA generativa, desenvolvido para oferecer aprendizado personalizado, adaptativo e contínuo. Ele é utilizado tanto em instituições de ensino quanto em ambientes de educação corporativa.
+O produto analisa o histórico de interações do aluno, seu desempenho em exercícios e seus objetivos educacionais para ajustar automaticamente o nível de dificuldade, profundidade das explicações e forma de apresentação do conteúdo. Isso permite que cada aluno tenha uma experiência de aprendizagem individualizada, respeitando seu ritmo e nível cognitivo.
+O EduMentor AI gera explicações, exemplos, analogias e exercícios de forma dinâmica, além de fornecer feedback formativo detalhado. Ele pode ser integrado a plataformas LMS existentes, funcionando como uma camada inteligente sobre o ecossistema educacional da instituição.
+O sistema foi projetado para complementar o trabalho de professores e instrutores, não para substituí-los. A curadoria pedagógica e a definição dos objetivos educacionais permanecem sob responsabilidade humana.
+
+CourseGen Studio — Geração Assistida de Conteúdo Educacional
+O CourseGen Studio é uma ferramenta de criação e curadoria de conteúdo educacional baseada em IA generativa. Seu foco está em acelerar a produção de cursos, materiais didáticos e avaliações, mantendo coerência pedagógica e alinhamento institucional.
+A partir de requisitos como público-alvo, carga horária, objetivos educacionais e competências desejadas, o CourseGen Studio gera automaticamente ementas, planos de aula, conteúdos estruturados e avaliações. O sistema pode alinhar o conteúdo a taxonomias educacionais, como a Taxonomia de Bloom, garantindo consistência didática.
+Todo o conteúdo produzido é totalmente editável, versionável e exportável para formatos como PDF, PPTX, HTML e SCORM. Isso permite que professores e instructional designers mantenham controle total sobre o material final.
+O CourseGen Studio atua como um acelerador de produtividade, reduzindo o tempo de criação de cursos sem eliminar a necessidade de revisão e validação humana.
+
+ClinicaGPT — Assistente Clínico de Apoio à Decisão
+O ClinicaGPT é um assistente de IA generativa voltado para apoio à prática clínica, desenvolvido especificamente para ambientes de saúde, como clínicas e hospitais. Seu objetivo é auxiliar profissionais de saúde na organização e interpretação de informações clínicas, sem interferir no julgamento médico.
+O produto é capaz de resumir prontuários, evoluções clínicas e resultados de exames, além de fornecer acesso rápido a protocolos e diretrizes clínicas por meio de consultas em linguagem natural. Todas as respostas são explicáveis e baseadas em fontes clínicas confiáveis.
+O ClinicaGPT opera estritamente como um sistema de apoio à decisão, não realizando diagnósticos nem prescrições. Esse limite é fundamental para garantir segurança do paciente e conformidade regulatória.
+O produto foi projetado para ambientes críticos, com altos requisitos de disponibilidade, segurança da informação e privacidade, seguindo princípios de LGPD e padrões equivalentes a HIPAA.
+DETALHES TECNICOS
+
+FinBrain
+Copiloto Financeiro Corporativo Baseado em IA Generativa
+Descrição Comercial
+O FinBrain é um copiloto financeiro corporativo que transforma dados financeiros complexos em insights claros, explicáveis e acionáveis. Ele permite que executivos, controllers e analistas façam perguntas em linguagem natural sobre resultados financeiros, projeções e indicadores-chave, reduzindo drasticamente o tempo gasto em análises manuais e relatórios.
+Com o FinBrain, decisões financeiras tornam-se mais rápidas, fundamentadas e transparentes, melhorando a comunicação entre áreas técnicas e a alta liderança.
+Diferenciais de Negócio
+Redução do tempo de análise financeira
+
+
+Comunicação executiva clara e padronizada
+
+
+Apoio à tomada de decisão estratégica
+
+
+Alta confiabilidade e rastreabilidade
+
+
+Detalhes Técnicos
+Modelo: LLM especializado em linguagem financeira e contábil
+
+
+Abordagem: RAG sobre dados financeiros internos
+
+
+Fontes de dados: ERP, data warehouse, planilhas, PDFs contábeis
+
+
+Explicabilidade: respostas sempre acompanhadas de referências aos dados de origem
+
+
+Integrações: API REST/GraphQL, conectores BI
+
+
+Segurança: isolamento por tenant, criptografia, controle de acesso por perfil
+
+
+Deploy: cloud privada ou on-premise
+
+
+Observabilidade: métricas de latência, uso, qualidade e drift semântico
+
+
+
+RiskGen
+Inteligência de Risco, Compliance e Auditoria
+Descrição Comercial
+O RiskGen é uma plataforma de IA generativa que automatiza e padroniza análises de risco regulatório, compliance e auditoria, permitindo que organizações lidem com contratos e normas complexas com muito mais eficiência e segurança.
+Ele reduz riscos operacionais, aumenta a consistência das análises e fornece suporte técnico confiável para áreas jurídicas, de compliance e auditoria interna.
+Diferenciais de Negócio
+Aceleração de análises regulatórias
+
+
+Redução de riscos legais e operacionais
+
+
+Padronização de pareceres técnicos
+
+
+Preparação facilitada para auditorias
+
+
+Detalhes Técnicos
+Modelo: LLM ajustado para linguagem jurídica e regulatória
+
+
+Abordagem: RAG sobre bases documentais versionadas
+
+
+Capacidade: análise de documentos extensos (>500 páginas)
+
+
+Funcionalidades-chave:
+
+
+classificação de risco por severidade
+
+
+comparação contrato × norma × política
+
+
+Auditoria: logs imutáveis, versionamento e evidências textuais
+
+
+Segurança: trilha de auditoria completa, controle de acesso rígido
+
+
+Deploy: cloud privada ou on-premise
+
+
+Observabilidade: métricas de risco, consistência e cobertura regulatória
+
+
+
+EduMentor AI
+Tutor Educacional Inteligente e Personalizado
+Descrição Comercial
+O EduMentor AI é um tutor educacional inteligente que oferece aprendizado personalizado e adaptativo, ajustando explicações, exemplos e exercícios ao nível e ao ritmo de cada aluno.
+Ele amplia a escala do ensino, melhora o engajamento dos alunos e reduz a sobrecarga de professores e instrutores, sendo ideal tanto para educação formal quanto para educação corporativa.
+Diferenciais de Negócio
+Aprendizado personalizado em escala
+
+
+Melhoria do engajamento e retenção
+
+
+Apoio contínuo ao aluno
+
+
+Integração com ambientes educacionais existentes
+
+
+Detalhes Técnicos
+Modelo: LLM educacional ajustado por área do conhecimento
+
+
+Abordagem: RAG sobre materiais institucionais
+
+
+Funcionalidades:
+
+
+adaptação automática de nível
+
+
+geração de exercícios e feedback formativo
+
+
+Integrações: LMS (Moodle, Canvas, Blackboard) via API
+
+
+Memória pedagógica: histórico de aprendizado por aluno
+
+
+Privacidade: LGPD, controle por perfil (aluno/professor/instituição)
+
+
+Escala: milhares de alunos simultâneos
+
+
+Observabilidade: métricas pedagógicas e engajamento
+
+
+
+CourseGen Studio
+Geração Assistida de Conteúdo Educacional
+Descrição Comercial
+O CourseGen Studio é uma plataforma de criação de cursos baseada em IA generativa que acelera a produção de conteúdo educacional estruturado e pedagogicamente consistente.
+Ele permite que instituições e empresas criem cursos completos em minutos, mantendo controle total sobre qualidade, estilo e alinhamento institucional.
+Diferenciais de Negócio
+Redução drástica do tempo de criação de cursos
+
+
+Padronização pedagógica
+
+
+Escalabilidade para L&D e universidades
+
+
+Preservação da autoria e curadoria humana
+
+
+Detalhes Técnicos
+Modelo: LLM generalista com templates pedagógicos
+
+
+Abordagem: prompting estruturado + RAG institucional
+
+
+Geração de:
+
+
+ementas
+
+
+planos de aula
+
+
+materiais e avaliações
+
+
+Alinhamento: taxonomias educacionais (ex.: Bloom)
+
+
+Exportação: PDF, PPTX, HTML, SCORM
+
+
+Versionamento: controle de versões e histórico
+
+
+Deploy: SaaS ou cloud privada
+
+
+Observabilidade: métricas de uso e consistência pedagógica
+
+
+
+ClinicaGPT
+Assistente Clínico de Apoio à Decisão
+Descrição Comercial
+O ClinicaGPT é um assistente clínico baseado em IA generativa que apoia profissionais de saúde na organização de informações, consulta a protocolos e elaboração de documentos clínicos.
+Ele melhora a eficiência do atendimento, reduz carga administrativa e aumenta a segurança clínica, sempre mantendo o profissional de saúde como responsável pela decisão final.
+Diferenciais de Negócio
+Redução do tempo administrativo
+
+
+Acesso rápido a informações clínicas relevantes
+
+
+Maior segurança e padronização
+
+
+Projetado para ambientes hospitalares críticos
+
+
+Detalhes Técnicos
+Modelo: LLM clínico com guardrails rigorosos
+
+
+Abordagem: RAG sobre diretrizes e protocolos médicos
+
+
+Limites explícitos: não diagnostica, não prescreve
+
+
+Funcionalidades:
+
+
+resumo de prontuários
+
+
+apoio à documentação clínica
+
+
+Segurança: criptografia, controle de acesso por papel
+
+
+Compliance: LGPD e princípios HIPAA-like
+
+
+Alta disponibilidade: SLA hospitalar
+
+
+Observabilidade: logs clínicos auditáveis e monitoramento de risco
+
+
+🌐 SynapseAI Solutions — URLs Institucionais
+Site institucional: https://www.synapseai.com
+
+
+Documentação geral: https://docs.synapseai.com
+
+
+Console administrativo global: https://admin.synapseai.com
+
+
+API Gateway central: https://api.synapseai.com
+
+
+
+💼 FinBrain — Copiloto Financeiro Corporativo
+Web App:
+ https://finbrain.synapseai.com
+
+
+API Base:
+ https://api.synapseai.com/finbrain/v1
+
+
+Documentação técnica:
+ https://docs.synapseai.com/finbrain
+
+
+Console administrativo:
+ https://admin.synapseai.com/finbrain
+
+
+
+⚖️ RiskGen — Risco, Compliance e Auditoria
+Web App:
+ https://riskgen.synapseai.com
+
+
+API Base:
+ https://api.synapseai.com/riskgen/v1
+
+
+Documentação técnica:
+ https://docs.synapseai.com/riskgen
+
+
+Console de auditoria e compliance:
+ https://audit.synapseai.com/riskgen
+
+
+
+🎓 EduMentor AI — Tutor Educacional Inteligente
+Web App (alunos e professores):
+ https://edumentor.synapseai.com
+
+
+App Mobile (PWA / Mobile):
+ https://app.synapseai.com/edumentor
+
+
+API Base:
+ https://api.synapseai.com/edumentor/v1
+
+
+Portal institucional (LMS/Admin):
+ https://institutions.synapseai.com/edumentor
+
+
+
+📚 CourseGen Studio — Geração de Conteúdo Educacional
+Editor Web:
+ https://coursegen.synapseai.com
+
+
+API Base:
+ https://api.synapseai.com/coursegen/v1
+
+
+Documentação técnica:
+ https://docs.synapseai.com/coursegen
+
+
+
+🏥 ClinicaGPT — Assistente Clínico
+Web App Clínico:
+ https://clinicagpt.synapseai.com
+
+
+API Base:
+ https://api.synapseai.com/clinicagpt/v1
+
+
+Console hospitalar / administrativo:
+ https://health.synapseai.com/clinicagpt
+
